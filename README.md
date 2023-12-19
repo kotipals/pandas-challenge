@@ -1,2 +1,2 @@
 # pandas-challenge
-My assignment for Module 4
+In this assignment we look at the student and school data for a 
